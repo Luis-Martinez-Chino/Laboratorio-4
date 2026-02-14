@@ -1,0 +1,14 @@
+C:\Users\luisp\source\repos\L4_LPMB_1081126\L4_LPMB_1081126\bin\Debug\net10.0\L4_LPMB_1081126.exe
+C:\Users\luisp\source\repos\L4_LPMB_1081126\L4_LPMB_1081126\bin\Debug\net10.0\L4_LPMB_1081126.deps.json
+C:\Users\luisp\source\repos\L4_LPMB_1081126\L4_LPMB_1081126\bin\Debug\net10.0\L4_LPMB_1081126.runtimeconfig.json
+C:\Users\luisp\source\repos\L4_LPMB_1081126\L4_LPMB_1081126\bin\Debug\net10.0\L4_LPMB_1081126.dll
+C:\Users\luisp\source\repos\L4_LPMB_1081126\L4_LPMB_1081126\bin\Debug\net10.0\L4_LPMB_1081126.pdb
+C:\Users\luisp\source\repos\L4_LPMB_1081126\L4_LPMB_1081126\obj\Debug\net10.0\L4_LPMB_1081126.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisp\source\repos\L4_LPMB_1081126\L4_LPMB_1081126\obj\Debug\net10.0\L4_LPMB_1081126.AssemblyInfoInputs.cache
+C:\Users\luisp\source\repos\L4_LPMB_1081126\L4_LPMB_1081126\obj\Debug\net10.0\L4_LPMB_1081126.AssemblyInfo.cs
+C:\Users\luisp\source\repos\L4_LPMB_1081126\L4_LPMB_1081126\obj\Debug\net10.0\L4_LPMB_1081126.csproj.CoreCompileInputs.cache
+C:\Users\luisp\source\repos\L4_LPMB_1081126\L4_LPMB_1081126\obj\Debug\net10.0\L4_LPMB_1081126.dll
+C:\Users\luisp\source\repos\L4_LPMB_1081126\L4_LPMB_1081126\obj\Debug\net10.0\refint\L4_LPMB_1081126.dll
+C:\Users\luisp\source\repos\L4_LPMB_1081126\L4_LPMB_1081126\obj\Debug\net10.0\L4_LPMB_1081126.pdb
+C:\Users\luisp\source\repos\L4_LPMB_1081126\L4_LPMB_1081126\obj\Debug\net10.0\L4_LPMB_1081126.genruntimeconfig.cache
+C:\Users\luisp\source\repos\L4_LPMB_1081126\L4_LPMB_1081126\obj\Debug\net10.0\ref\L4_LPMB_1081126.dll
